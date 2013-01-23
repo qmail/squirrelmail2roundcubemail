@@ -1,0 +1,13 @@
+-------------------------------------------------------------------
+Wed Jan 23 11:31:53 UTC 2013 - jweberhofer@weberhofer.at
+
+- Initial RPM release of version 1.0
+
+- Several improvements compared to the Alessandro De Zorzi release:
+  * Renamings of files
+  * Unicode handling
+  * Creation of not yet created accounts
+  * Some code fixes
+  * Re-Formattings
+  * Inclusion of the GPLv2 license 
+  * Adding a spec file to generate a RPM
